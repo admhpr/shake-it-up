@@ -2,7 +2,7 @@
 A DOM based dice game.
 Known lovingly as the pig game. Fun to build and fun to play.
 
-##GAME RULES:
+## GAME RULES:
 
 * Two player game that is played in rounds.
 * Each turn, a player rolls a dice as many times as he or she whishes. Each result get added to the round score.
