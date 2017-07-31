@@ -15,7 +15,7 @@
 }
 
 body {
-  /*background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);*/
+  background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(velvet.jpg);
   background-size: cover;
   background-position: center;
   font-family: Lato;
@@ -34,7 +34,7 @@ body {
   background-color: #fff;
   box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.3);
   overflow: hidden;
-  margin-top: 10%;
+  margin-top: 12%;
 }
 
 .player-0-panel, .player-1-panel {
@@ -176,5 +176,11 @@ i {
 
 .rules {
   padding-bottom: 2%;
-  list-display-style: none;
+  background-color: #f4f4f4;
+  margin: 0% 2% 0%;
+  padding: 1%;
+}
+
+.rules li {
+  list-style-type: none;
 }
